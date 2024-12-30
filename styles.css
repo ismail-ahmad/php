@@ -1,0 +1,14 @@
+h1{
+    font-family: georgia;
+    text-align: center;
+    color: cornflowerblue;
+    font-size: 28px;
+}
+p.finally{
+    color: rgb(4, 181, 39);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
